@@ -13,7 +13,11 @@ The dataset includes 12 columns. 11 are input variables, features that help
 score from 0 to 10.
 
 ### Objectives
-Identify which variables influence perceived wine quality the most by<br>
+Identify which variable influences perceived wine quality the most by<br>
 fitting a statistical model, with an explanatory model approach.
 
 ### Results
+Alcohol has the largest impact on the dependent variable, with a coefficient
+ <br>
+ of 0.97. So replying to the initial hypothesis, alcohol is the most <br>
+influential factor for red wine quality.
